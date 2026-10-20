@@ -1,5 +1,8 @@
-const LARGHEZZA = 1280;
-const ALTEZZA = 720;
+import "./scenes/gino.js";
+import "./scenes/fine.js";
+
+window.LARGHEZZA = 1280;
+window.ALTEZZA = 720;
 
 const config = {
   canvas_width: LARGHEZZA,
